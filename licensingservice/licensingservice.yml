@@ -1,8 +1,8 @@
 example.property: "I AM IN THE DEFAULT"
 
 spring.datasource.platform:  "h2"
-spring.jpa.hibernate.ddl-auto: create-drop
-spring.jpa.generate-ddl: "true"
+#spring.jpa.hibernate.ddl-auto: create-drop
+#spring.jpa.generate-ddl: "true"
 spring.jpa.show-sql: "true"
 spring.datasource.testWhileIdle: "true"
 spring.datasource.validationQuery: "SELECT 1"
